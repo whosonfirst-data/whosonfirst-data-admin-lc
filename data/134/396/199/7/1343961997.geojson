@@ -45,7 +45,7 @@
         "wk:page":"Au_Tabor"
     },
     "wof:country":"LC",
-    "wof:geomhash":"faccf124746411cdabe70f16204e1d67",
+    "wof:geomhash":"a3418b2d5477c67fc50e0ad385239fba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,5 +70,5 @@
     -61.04128000000001,
     13.9461
 ],
-  "geometry": {"coordinates":[-61.04128000000001,13.9461],"type":"Point"}
+  "geometry": {"coordinates":[-61.04128,13.9461],"type":"Point"}
 }

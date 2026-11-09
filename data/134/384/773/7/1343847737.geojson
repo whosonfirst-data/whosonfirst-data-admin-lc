@@ -88,7 +88,7 @@
         "gn:id":3576865
     },
     "wof:country":"LC",
-    "wof:geomhash":"bb79cc122c058a42ef2256652dd9f861",
+    "wof:geomhash":"fae31a9e8b1660e0c0cbf0184770111e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,5 +113,5 @@
     -61.02741999999999,
     13.81833
 ],
-  "geometry": {"coordinates":[-61.02741999999999,13.81833],"type":"Point"}
+  "geometry": {"coordinates":[-61.02742,13.81833],"type":"Point"}
 }

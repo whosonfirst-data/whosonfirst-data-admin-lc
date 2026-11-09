@@ -50,7 +50,7 @@
         "gn:id":3576691
     },
     "wof:country":"LC",
-    "wof:geomhash":"efb9fd1645173983f785074445b45814",
+    "wof:geomhash":"015ad38f0926aa237a0b1326cfdff910",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,5 +75,5 @@
     -60.93389000000001,
     13.93258
 ],
-  "geometry": {"coordinates":[-60.93389000000001,13.93258],"type":"Point"}
+  "geometry": {"coordinates":[-60.93389,13.93258],"type":"Point"}
 }
