@@ -1,0 +1,72 @@
+{
+  "id": 9895036402,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.05604,13.83913,-61.05604,13.83913",
+    "geom:latitude":13.83913,
+    "geom:longitude":-61.05604,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11955815: name \"Plat Pays\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11955815"
+        },
+        {
+            "citation":"GeoNames populated place 11955815: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11955815"
+        },
+        {
+            "citation":"GeoNames populated place 11955815: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11955815"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673711 (Soufri\u00e8re), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673711,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11955815
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"f21243c0749803a873f6a973ca2d6421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036402,
+            "region_id":85673711
+        }
+    ],
+    "wof:id":9895036402,
+    "wof:lastmodified":1795735091,
+    "wof:name":"Plat Pays",
+    "wof:parent_id":85673711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.05604,
+    13.83913,
+    -61.05604,
+    13.83913
+],
+  "geometry": {"coordinates":[-61.05604,13.83913],"type":"Point"}
+}

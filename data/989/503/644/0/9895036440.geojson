@@ -1,0 +1,72 @@
+{
+  "id": 9895036440,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.9958,13.77703,-60.9958,13.77703",
+    "geom:latitude":13.77703,
+    "geom:longitude":-60.9958,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11955901: name \"Olibo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11955901"
+        },
+        {
+            "citation":"GeoNames populated place 11955901: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11955901"
+        },
+        {
+            "citation":"GeoNames populated place 11955901: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11955901"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673699 (Laborie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673699,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11955901
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"966e59b58ccd2b9c82409f48ae308a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036440,
+            "region_id":85673699
+        }
+    ],
+    "wof:id":9895036440,
+    "wof:lastmodified":1795735091,
+    "wof:name":"Olibo",
+    "wof:parent_id":85673699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.9958,
+    13.77703,
+    -60.9958,
+    13.77703
+],
+  "geometry": {"coordinates":[-60.9958,13.77703],"type":"Point"}
+}

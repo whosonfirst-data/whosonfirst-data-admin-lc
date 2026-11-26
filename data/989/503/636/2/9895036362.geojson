@@ -1,0 +1,72 @@
+{
+  "id": 9895036362,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.92833,14.02141,-60.92833,14.02141",
+    "geom:latitude":14.02141,
+    "geom:longitude":-60.92833,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11954777: name \"La Gare\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11954777"
+        },
+        {
+            "citation":"GeoNames populated place 11954777: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11954777"
+        },
+        {
+            "citation":"GeoNames populated place 11954777: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11954777"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673687 (Dauphin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11954777
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"6ddbb6029a50144230d0e6d5b5a78e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036362,
+            "region_id":85673687
+        }
+    ],
+    "wof:id":9895036362,
+    "wof:lastmodified":1795735091,
+    "wof:name":"La Gare",
+    "wof:parent_id":85673687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.92833,
+    14.02141,
+    -60.92833,
+    14.02141
+],
+  "geometry": {"coordinates":[-60.92833,14.02141],"type":"Point"}
+}

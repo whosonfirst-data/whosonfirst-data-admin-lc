@@ -1,0 +1,72 @@
+{
+  "id": 9895036369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93382,14.00371,-60.93382,14.00371",
+    "geom:latitude":14.00371,
+    "geom:longitude":-60.93382,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11954794: name \"Pays Perdu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11954794"
+        },
+        {
+            "citation":"GeoNames populated place 11954794: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11954794"
+        },
+        {
+            "citation":"GeoNames populated place 11954794: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11954794"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673687 (Dauphin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11954794
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"653f70d63055cdaf8f12b7f248beb7c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036369,
+            "region_id":85673687
+        }
+    ],
+    "wof:id":9895036369,
+    "wof:lastmodified":1795735091,
+    "wof:name":"Pays Perdu",
+    "wof:parent_id":85673687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93382,
+    14.00371,
+    -60.93382,
+    14.00371
+],
+  "geometry": {"coordinates":[-60.93382,14.00371],"type":"Point"}
+}

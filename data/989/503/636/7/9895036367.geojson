@@ -1,0 +1,72 @@
+{
+  "id": 9895036367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95171,14.0236,-60.95171,14.0236",
+    "geom:latitude":14.0236,
+    "geom:longitude":-60.95171,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11954783: name \"Ti Morne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11954783"
+        },
+        {
+            "citation":"GeoNames populated place 11954783: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11954783"
+        },
+        {
+            "citation":"GeoNames populated place 11954783: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11954783"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673695 (Gros Islet), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11954783
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"277de76c827cdffd217299d652e7ef66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036367,
+            "region_id":85673695
+        }
+    ],
+    "wof:id":9895036367,
+    "wof:lastmodified":1795735091,
+    "wof:name":"Ti Morne",
+    "wof:parent_id":85673695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95171,
+    14.0236,
+    -60.95171,
+    14.0236
+],
+  "geometry": {"coordinates":[-60.95171,14.0236],"type":"Point"}
+}
