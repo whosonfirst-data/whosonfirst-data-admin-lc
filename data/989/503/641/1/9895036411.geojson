@@ -1,0 +1,72 @@
+{
+  "id": 9895036411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.04493,13.81863,-61.04493,13.81863",
+    "geom:latitude":13.81863,
+    "geom:longitude":-61.04493,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11955837: name \"Saint R\u00e9my\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11955837"
+        },
+        {
+            "citation":"GeoNames populated place 11955837: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11955837"
+        },
+        {
+            "citation":"GeoNames populated place 11955837: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11955837"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673711 (Soufri\u00e8re), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673711,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11955837
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"f1983e3d4bd0a0d8cd0fae7247e923f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036411,
+            "region_id":85673711
+        }
+    ],
+    "wof:id":9895036411,
+    "wof:lastmodified":1795735091,
+    "wof:name":"Saint R\u00e9my",
+    "wof:parent_id":85673711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.04493,
+    13.81863,
+    -61.04493,
+    13.81863
+],
+  "geometry": {"coordinates":[-61.04493,13.81863],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895036386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.90586,13.93241,-60.90586,13.93241",
+    "geom:latitude":13.93241,
+    "geom:longitude":-60.90586,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11954880: name \"La Caye\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11954880"
+        },
+        {
+            "citation":"GeoNames populated place 11954880: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11954880"
+        },
+        {
+            "citation":"GeoNames populated place 11954880: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11954880"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673689 (Dennery), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673689,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11954880
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"7125bc253e19a635a18aa65d4ca44c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036386,
+            "region_id":85673689
+        }
+    ],
+    "wof:id":9895036386,
+    "wof:lastmodified":1795735091,
+    "wof:name":"La Caye",
+    "wof:parent_id":85673689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.90586,
+    13.93241,
+    -60.90586,
+    13.93241
+],
+  "geometry": {"coordinates":[-60.90586,13.93241],"type":"Point"}
+}

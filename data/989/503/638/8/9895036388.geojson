@@ -1,0 +1,72 @@
+{
+  "id": 9895036388,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.00312,13.94434,-61.00312,13.94434",
+    "geom:latitude":13.94434,
+    "geom:longitude":-61.00312,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11955744: name \"Morne Ciseaux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11955744"
+        },
+        {
+            "citation":"GeoNames populated place 11955744: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11955744"
+        },
+        {
+            "citation":"GeoNames populated place 11955744: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11955744"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673675 (Anse-la-Raye), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673675,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11955744
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"511734fbb31f5139dd2c3654e4efd242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036388,
+            "region_id":85673675
+        }
+    ],
+    "wof:id":9895036388,
+    "wof:lastmodified":1795735091,
+    "wof:name":"Morne Ciseaux",
+    "wof:parent_id":85673675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.00312,
+    13.94434,
+    -61.00312,
+    13.94434
+],
+  "geometry": {"coordinates":[-61.00312,13.94434],"type":"Point"}
+}

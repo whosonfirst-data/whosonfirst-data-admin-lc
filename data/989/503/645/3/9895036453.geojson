@@ -1,0 +1,72 @@
+{
+  "id": 9895036453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.90272,13.86558,-60.90272,13.86558",
+    "geom:latitude":13.86558,
+    "geom:longitude":-60.90272,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11955938: name \"Mamiku\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11955938"
+        },
+        {
+            "citation":"GeoNames populated place 11955938: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11955938"
+        },
+        {
+            "citation":"GeoNames populated place 11955938: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11955938"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673707 (Praslin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673707,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11955938
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"a11d814afaa455e793caad9010bed70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036453,
+            "region_id":85673707
+        }
+    ],
+    "wof:id":9895036453,
+    "wof:lastmodified":1795735091,
+    "wof:name":"Mamiku",
+    "wof:parent_id":85673707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.90272,
+    13.86558,
+    -60.90272,
+    13.86558
+],
+  "geometry": {"coordinates":[-60.90272,13.86558],"type":"Point"}
+}

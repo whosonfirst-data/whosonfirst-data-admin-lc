@@ -1,0 +1,72 @@
+{
+  "id": 9895036404,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.04342,13.83584,-61.04342,13.83584",
+    "geom:latitude":13.83584,
+    "geom:longitude":-61.04342,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11955819: name \"Sulphur Springs\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11955819"
+        },
+        {
+            "citation":"GeoNames populated place 11955819: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11955819"
+        },
+        {
+            "citation":"GeoNames populated place 11955819: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11955819"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673711 (Soufri\u00e8re), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673711,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11955819
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"9c084a624081e6b78b7ca8af5f796e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036404,
+            "region_id":85673711
+        }
+    ],
+    "wof:id":9895036404,
+    "wof:lastmodified":1795735091,
+    "wof:name":"Sulphur Springs",
+    "wof:parent_id":85673711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.04342,
+    13.83584,
+    -61.04342,
+    13.83584
+],
+  "geometry": {"coordinates":[-61.04342,13.83584],"type":"Point"}
+}

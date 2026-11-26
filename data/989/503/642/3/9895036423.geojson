@@ -1,0 +1,72 @@
+{
+  "id": 9895036423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.02607,13.79307,-61.02607,13.79307",
+    "geom:latitude":13.79307,
+    "geom:longitude":-61.02607,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11955863: name \"Dupr\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11955863"
+        },
+        {
+            "citation":"GeoNames populated place 11955863: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11955863"
+        },
+        {
+            "citation":"GeoNames populated place 11955863: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11955863"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673683 (Choiseul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673683,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11955863
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"f768618d0cd790c9c8a932b528f54147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036423,
+            "region_id":85673683
+        }
+    ],
+    "wof:id":9895036423,
+    "wof:lastmodified":1795735091,
+    "wof:name":"Dupr\u00e9",
+    "wof:parent_id":85673683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.02607,
+    13.79307,
+    -61.02607,
+    13.79307
+],
+  "geometry": {"coordinates":[-61.02607,13.79307],"type":"Point"}
+}

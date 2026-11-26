@@ -1,0 +1,72 @@
+{
+  "id": 9895036365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.92259,14.01516,-60.92259,14.01516",
+    "geom:latitude":14.01516,
+    "geom:longitude":-60.92259,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11954780: name \"Theatiste\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11954780"
+        },
+        {
+            "citation":"GeoNames populated place 11954780: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11954780"
+        },
+        {
+            "citation":"GeoNames populated place 11954780: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11954780"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673687 (Dauphin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        85673687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11954780
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"4f0129fed61089a4a3019db35d94ac66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":9895036365,
+            "region_id":85673687
+        }
+    ],
+    "wof:id":9895036365,
+    "wof:lastmodified":1795735091,
+    "wof:name":"Theatiste",
+    "wof:parent_id":85673687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.92259,
+    14.01516,
+    -60.92259,
+    14.01516
+],
+  "geometry": {"coordinates":[-60.92259,14.01516],"type":"Point"}
+}
