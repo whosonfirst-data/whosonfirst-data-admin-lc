@@ -1,0 +1,75 @@
+{
+  "id": 9895094849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.06326,13.90466,-61.06326,13.90466",
+    "geom:latitude":13.90466,
+    "geom:longitude":-61.06326,
+    "gn:population":1862,
+    "iso:country":"LC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 11351387 (Canaries): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11351387"
+        },
+        {
+            "citation":"GeoNames division 11351387 (Canaries): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11351387"
+        },
+        {
+            "citation":"GeoNames division 11351387 (Canaries): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11351387"
+        },
+        {
+            "citation":"GeoNames division 11351387 (Canaries): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/11351387"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Canaries"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11351387
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"6766b01d2ec70a5a9ce0b4dd0770795a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "region_id":9895094849
+        }
+    ],
+    "wof:id":9895094849,
+    "wof:lastmodified":1795802310,
+    "wof:name":"Canaries",
+    "wof:parent_id":85632369,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.06326,
+    13.90466,
+    -61.06326,
+    13.90466
+],
+  "geometry": {"coordinates":[-61.06326,13.90466],"type":"Point"}
+}
